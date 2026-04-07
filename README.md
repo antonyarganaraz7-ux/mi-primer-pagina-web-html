@@ -50,7 +50,6 @@ tp2/
 2. Asegurarse de que `index.html`, `pagina2.html` y la imagen `estadionapoli.jfif` estén en la misma carpeta.
 3. Abrir `index.html` con cualquier navegador web moderno.
 
-> **Nota:** la imagen del estadio usa una ruta local (`C:\Users\Usuario\Desktop\tp2\estadionapoli.jfif`). Para que se vea correctamente en otra computadora, se debe actualizar esa ruta o reemplazarla por una imagen en la misma carpeta del proyecto.
 
 ---
 
